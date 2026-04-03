@@ -2,7 +2,7 @@
 
 # Feature Relationship Matching Enhanced Low-Bit Post-Training Quantization for Large Language Models
 
-**Chao Zeng**, **Jiaqi Zhao**, **Miao Zhang**\*, **Li Wang**, **Weili Guan**, **Liqiang Nie**  
+**Chao Zeng**, **[Jiaqi Zhao](https://scholar.google.com/citations?user=lrJ0VWYAAAAJ&hl=zh-CN&oi=sra)**, **[Miao Zhang](https://scholar.google.com/citations?user=XdUDc34AAAAJ&hl=zh-CN&oi=sra)**\*, **[Li Wang](https://scholar.google.com/citations?user=YXJrMkYAAAAJ&hl=zh-CN&oi=sra)**, **Weili Guan**, **[Liqiang Nie](https://scholar.google.com/citations?user=yywVMhUAAAAJ&hl=zh-CN&oi=ao)**  
 Harbin Institute of Technology, Shenzhen  
 \* Corresponding author
 
